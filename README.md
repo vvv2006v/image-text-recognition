@@ -1,5 +1,5 @@
 # image-text-recognition
-*A program for recognizing text on an image*
+*Program for recognizing text on image*
 > To use this program, install the library **pytesseract**:
 ```
 pip install pytesseract
